@@ -1,0 +1,155 @@
+.Discover-our-unique-collection-section{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#DiscoverOurUnique{
+    /* text-align: center; */
+    padding-left: 25px;
+    font-weight: 600;
+}
+
+.card1-CARD-content{
+    background-image: url("/Discover our unique collection/9.png");
+    border: 10px solid #F1EEEE;
+    background-size: cover;
+}
+.card2-CARD-content {
+    background-image: url("/Discover our unique collection/10.png");
+    border: 10px solid #F1EEEE;
+    background-size: cover;
+}
+.card3-CARD-content {
+    background-image: url("/Discover our unique collection/11.png");
+    border: 10px solid #F1EEEE;
+    background-size: cover;
+}
+.card4-CARD-content {
+    background-image: url("/Discover our unique collection/12.png");
+    border: 10px solid #F1EEEE;
+    background-size: cover;
+}
+
+
+.Discover-our-unique-collection-CARD-gallary {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: space-evenly;
+}
+/* card Contaner  */
+.left-side {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    padding-right: 1vw;
+    /* column-gap: 10px; */
+    justify-content: space-between;
+}
+
+.left-top-side {
+    display: flex;
+    height: 46.5%;
+    justify-content: space-between;
+}
+
+.left-bottom-side {
+    height: 46.5%;
+}
+
+.right-side {
+    width: 40%;
+    height: 100%;
+}
+/* END card Contaner */
+
+
+/* CARD size */
+.card1-left-top-side-contaner{
+    width: 48%;
+}
+.card2-left-top-side-contaner{
+    width: 48%;
+}
+.card3-right-side-contaner {
+    height: 100%;
+}
+.card4-right-side-contaner{
+    height: 100%;
+}
+/* END card size */
+
+/* 
+.card1-image_text_content {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    align-items: flex-end;
+    color: white;
+    font-size: 1.9rem;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.card2-image_text_content {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    align-items: flex-end;
+    color: white;
+    font-size: 1.9rem;
+}
+.card3-image_text_content {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    align-items: flex-end;
+    color: white;
+    font-size: 1.9rem;
+}
+.card4-image_text_content {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    align-items: flex-end;
+    color: white;
+    font-size: 1.9rem;
+} */
+
+.unique-collection-text-area{
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    align-items: flex-end;
+    color: white;
+    font-size: 1.9rem;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+
+
+
+
+.card1-image img{
+    height: 50%;
+    width: 100%;
+}
+.card2-image img {
+    height: 50%;
+    width: 100%;
+}
+.card3-image img {
+    height: 50%;
+    width: 100%;
+}
+.card4-image img {
+    height: 100%;
+    width: 100%;
+}
