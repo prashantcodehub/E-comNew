@@ -1,83 +1,60 @@
-.Culinary-Space-container{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    height: auto;
-    width: 100%;
-}
-.Culinary-Space-first-column{
-    width: 48%;
-    height: 100%;
-    margin-left: 3vw;
-}
-.Elevate-your-Culinary-Space {
-    padding-bottom: 10vh;
-}
-.Culinary-Space-Second-column{
-    width: 45%;
-    height: 100%;
-    margin-right: 3vw;
-}
-.Elevate-heading-text {
-    font-family: system-ui;
-    font-size: 2.6rem;
-    font-weight: 600;
-    width: 100%;
-    margin-bottom: 5vh;
-}
-.Get-started-button {
-    font-size: 1.7rem;
-    height: 6vh;
-    padding-top: 1vh;
-    padding-bottom: 1vh;
-    background-color: #A2988F;
-    width: fit-content;
-    color: white;
-    padding-left: 1vw;
-    padding-right: 1vw;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-.looking-like-a-wow {
-    display: flex;
-    justify-content: flex-start;
-    gap: 5%;
-    margin-top: 2vh;
-    font-size: 2rem;
-    font-weight: 600;
-    font-family: system-ui;
-}
-.AAhahahahaaaa{
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 0.5em;
-}
-.Traditional-Kitchen {
-    padding: 15px;
-    background-color: #F1EEEE;;
-    width: 86%;
+.Elevate-Exception-contaner{
     display: flex;
     flex-direction: column;
-    margin-left: 2.5vw;
+    width: -webkit-fill-available;
 }
-.Mordern-Kitchen {
-    padding: 15px;
-    background-color: #F1EEEE;;
+
+.Elevate-Exception{
     display: flex;
     flex-direction: column;
-    margin-bottom: 7vh;
-}
-.Residential-Kitchen{
-    padding: 15px;
-    background-color: #F1EEEE;;
-    display: flex;
-    flex-direction: column;
-}
-.Kitchen {
-    margin-top: 4vh;
-    font-size: 1.9rem;
-    font-family: system-ui;
-    display: flex;
-    justify-content: space-between;
-    align-content: center;
     align-items: center;
-    margin-bottom: 4vh;
+}
+
+.Elevate-Exception-heading{
+    font-family: system-ui;
+    font-size: 45px;
+    text-align: center;
+}
+
+.Elevate-Exception-heading-below-p{
+    font-size: x-large;
+    font-weight: bold;
+    background-color: #A2988F;
+    color: white;
+    border: 0 solid;
+    width: 58%;
+    text-align: center;
+    text-align: center;
+}
+
+.Culinary-Space-review{
+    display: flex;
+    font-size: 2rem;
+    justify-content: space-evenly;
+    width: -webkit-fill-available;
+}
+
+.TYPE-1 {
+    display: flex;
+    flex-direction: row;
+    /* background-image: url(/6.png); */
+    background-size: cover;
+    align-items: flex-end;
+    height: 65vh;
+    width: 30vw;
+    border: 20px solid #F1EEEE;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+}
+
+.Kitchen-text {
+    padding-bottom: 10px;
+}
+
+.Kitchen-TYPE{
+    display: flex;
+    font-size: 2rem;
+    justify-content: space-evenly;
 }
