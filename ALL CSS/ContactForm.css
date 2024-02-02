@@ -1,0 +1,68 @@
+.Coliv-Contact-section{
+    font-family: 'Poppins';
+    height: 120vh;
+}
+
+.Coliv-Contact-section-heading{
+    font-size: xx-large;
+    text-align: center;
+}
+
+.Coliv-Contact-section-form-container{
+    background-image: url("/New DESIGNES/STUDIO COLIV ELEMNTS AND FONTS/STUDIO COLIV ELEMNTS AND FONTS/images/13.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Coliv-Contact-section-contactForm {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    border-radius: 12px;
+    position: relative;
+    top: 18vh;
+    background-color: white;
+}
+
+.Coliv-Contact-section-contactForm-fields-container {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-top: 2vh;
+}
+
+.Coliv-Contact-section-contactForm-fields-container>div>label{
+    font-size: 1.rem;
+    font-weight: 500;
+}
+
+.Coliv-Contact-section-contactForm-fields-container>div {
+    font-size: medium;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Coliv-Contact-section-contactForm-fields-container>div>input {
+    width: 100%;
+    height: 5vh;
+    /* margin-bottom: 10px; */
+}
+.Coliv-Contact-section-contactForm-fields-container>div>textarea {
+    width: 100%;
+    height: 14vh;
+    /* margin-bottom: 10px; */
+}
+.Coliv-submitForm-button{
+    border: 0 solid;
+    width: 140px;
+    font-size: large;
+    border-radius: 15px;
+    height: 7vh;
+    margin-bottom: 2vh;
+}

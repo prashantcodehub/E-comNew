@@ -1,0 +1,80 @@
+.footer-section{
+    display: flex;
+    flex-direction: column;
+    background-color: #F1EEEE;
+    font-family: 'Poppins';
+}
+
+.footer-heading-text {
+    text-align: center;
+    color: black;
+    font-size: 1.875rem;
+}
+
+.footer-columns-Categories {
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.2rem;
+}
+
+.footer-column-coliv-incolumn-heading {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-column-coliv-incolumn-text{
+    margin: 5px 0px 5px 0px;
+}
+
+.social-handel-and-Newsletter{
+    display: flex;
+    flex-direction: column;
+}
+.social-handel-icons{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.Newsletter {
+    font-size: 1.5rem;
+    font-family: 'Poppins';
+    font-weight: 500;
+    text-align: center;
+    margin-top: 0px;
+}
+.Newsletter-Subscribe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 2vh;
+}
+.Newsletter-Subscribe>input{
+    padding: 10px;
+    width: 45%;
+    height: 50px;
+    margin-right: 10px;
+    box-sizing: border-box;
+    border: 0;
+    margin: 0;
+}
+/* .Newsletter-Subscribe>input:focus {
+    border: 2px solid #F1EEEE;
+
+} */
+.Newsletter-Subscribe>button {
+    border: 0;
+    height: 50px;
+    padding: 0;
+    width: 150px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    background-color: #A2988F;
+    color: white;
+    font-size: 1.5rem;
+}
+.footer-Copyright-text{
+    text-align: center;
+    margin-top: 0;
+}

@@ -13,7 +13,8 @@
 .Elevate-Exception-heading{
     font-family: system-ui;
     font-size: 45px;
-    text-align: center;
+    text-align: center;   
+    margin-bottom: 0;
 }
 
 .Elevate-Exception-heading-below-p{
@@ -25,28 +26,41 @@
     width: 58%;
     text-align: center;
     text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
 }
+
+/* .Exception-contaner-card-image-contaner{
+    display: flex;
+    flex-direction: column;
+} */
 
 .Culinary-Space-review{
     display: flex;
-    font-size: 2rem;
-    justify-content: space-evenly;
+    font-size: 1.613rem;
+    justify-content: center;
     width: -webkit-fill-available;
+    gap: 5vw;
 }
 
 .TYPE-1 {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     /* background-image: url(/6.png); */
     background-size: cover;
     align-items: flex-end;
-    height: 65vh;
+    height: 54vh;
+    gap: 1vh;
     width: 30vw;
     border: 20px solid #F1EEEE;
-    justify-content: space-between;
-    padding-left: 10px;
-    padding-right: 10px;
+    background-color: #F1EEEE;
+    justify-content: flex-start;
+    /* padding-left: 10px; */
+    /* padding-right: 10px; */
     color: black;
+}
+.eeimg{
+    aspect-ratio: 4/3;
 }
 
 .Kitchen-text {
@@ -57,4 +71,15 @@
     display: flex;
     font-size: 2rem;
     justify-content: space-evenly;
+    gap: 1vw;
+    margin-top: 4vh;
+}
+.Kitchen-text-contaner-hahah {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.vertical-line-in-HTML{
+    border: 2px solid black;
 }
