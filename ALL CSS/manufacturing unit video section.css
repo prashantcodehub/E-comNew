@@ -1,0 +1,27 @@
+.In-house-manufacturing {
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 2.2rem;
+    font-weight: 400;
+    position: relative;
+    z-index: 2;
+    top: 42vh;
+    width: 50%;
+    text-align: left !important;
+    color: white;
+    text-shadow: -3px 4px 3px black;
+    margin-left: 5vw;
+}
+.thin{
+    font-weight: 400!important;
+}
+
+video.In-house-manufacturing-video {
+    min-width: 100%;
+    position: relative;
+    z-index: -1;
+}
+.In-house-manufacturing-section {
+    position: relative;
+    top: -45vh;
+}

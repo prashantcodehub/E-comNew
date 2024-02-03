@@ -18,6 +18,15 @@
     font-family: sans-serif;
     width: 62%;
 }
+.Navbar-menu-coliv-deskTop>div>h6{
+    font-size: 1.175rem;
+    font-weight: 500;
+    margin: 0;
+}
+.Navbar-menu-coliv-deskTop:hover{
+    cursor: pointer;
+}
+
 .Logo-coliv{
     height: 85px;
     width: 112px;
@@ -28,5 +37,5 @@
     padding: 10px;
     width: 19vw;
     text-align: center;
-    font-size: 16.7px;
+    font-size: 1.044rem;
 }

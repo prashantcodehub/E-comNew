@@ -1,0 +1,25 @@
+.World-kitchen-Design-heading {
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 2.2rem;
+    font-weight: 400;
+    position: relative;
+    z-index: 2;
+    top: 37vh;
+    /* width: 50%; */
+    /* text-align: center!important; */
+    color: white;
+    /* text-shadow: -3px 4px 3px black; */
+    margin-left: 5vw;
+}
+
+video.World-kitchen-Design-video {
+    min-width: 100%;
+    position: relative;
+    z-index: -1;
+}
+
+.World-kitchen-Design-section{
+    position: relative;
+    top: -45vh;
+}

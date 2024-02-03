@@ -1,7 +1,9 @@
-.Elevate-Exception-contaner{
+.Elevate-Exception-contaner {
     display: flex;
     flex-direction: column;
     width: -webkit-fill-available;
+    position: relative;
+    top: -36vh;
 }
 
 .Elevate-Exception{

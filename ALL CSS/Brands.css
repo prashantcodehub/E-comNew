@@ -1,4 +1,8 @@
 /* BRANDS_section */
+.BRANDS-section-contaner{
+    position: relative;
+    top: -5vh;
+}
 .Brands-heading{
     font-family: 'Poppins';
     font-size: 2.2rem;

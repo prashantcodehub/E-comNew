@@ -1,0 +1,46 @@
+.ready-to-transform-your-kitchen-text-bookAppointment {
+    font-size: 1.3rem;
+    background-color: #A2988F;
+    height: 44px;
+    border-radius: 10px;
+    width: 20vw;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+
+.ready-to-transform-your-kitchen-text-textContent {
+    font-size: 1.2rem;
+}
+
+
+.ready-to-transform-your-kitchen-text-heading {
+    font-size: 1.5rem;
+}
+
+
+.ready-to-transform-your-kitchen-text-contaner {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.ready-to-transform-your-kitchen-image {
+    width: 60%;
+}
+
+.ready-to-transform-your-kitchen-section {
+    display: flex;
+    gap: 3vw;
+    position: relative;
+    top: -20vh;
+}
+
+.ready-to-transform-your-kitchen-image>img{
+    width: 100%;
+}

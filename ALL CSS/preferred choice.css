@@ -1,7 +1,10 @@
 .What-makes-us-the-preferred-section{
     height: 85vh;
     font-family: 'Poppins';
+    position: relative;
+    top: -10vh;
 }
+
 .preferred-choice-heading{
     text-align: center;
 }
