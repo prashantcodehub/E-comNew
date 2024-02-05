@@ -39,7 +39,7 @@
 
 .Culinary-Space-review{
     display: flex;
-    font-size: 1.613rem;
+    font-size: 1.2rem;
     justify-content: center;
     width: -webkit-fill-available;
     gap: 5vw;
@@ -66,12 +66,12 @@
 }
 
 .Kitchen-text {
-    padding-bottom: 10px;
+    /* padding-bottom: 10px; */
 }
 
 .Kitchen-TYPE{
     display: flex;
-    font-size: 2rem;
+    font-size: 1.2rem;
     justify-content: space-evenly;
     gap: 1vw;
     margin-top: 4vh;

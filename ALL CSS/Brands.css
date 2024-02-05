@@ -18,18 +18,18 @@
     padding-left: 8%;
     padding-right: 8%;
     gap: 5vh;
-    margin-top: 10vh;
+    /* margin-top: 5vh; */
 }
 
 .BRANDS_section_card_contaner_row {
     display: flex;
-    gap: 2.5vw;
-    justify-content: space-around;
+    /* gap: 2.5vw; */
+    justify-content:center;
 
 }
 
 .BRANDS_section_card_contaner_cards {
-    width: 27%;
+    width: 23%;
     display: flex;
     justify-content: center;
     /* border: 2px solid black; */
@@ -47,7 +47,7 @@
 .BRANDS_section_card_contaner_cards_img {
     width: 80%;
     height: 80%;
-    aspect-ratio: 3 / 3;
+    aspect-ratio: 12 / 5;
     object-fit: contain;
 }
 
