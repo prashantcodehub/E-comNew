@@ -35,7 +35,7 @@
     display: flex;
     gap: 3vw;
     position: relative;
-    top: -20vh;
+    /* top: -20vh; */
 }
 
 .ready-to-transform-your-kitchen-image>img{

@@ -1,23 +1,28 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
-.Navbar-Coliv{
+.Navbar-Coliv {
     display: flex;
     justify-content: space-between;
-    margin-left: 3vw;
-    margin-right: 3vw;
-    margin-top: 3vh;
+    /* margin-left: 3vw; */
+    /* margin-right: 3vw; */
+    /* margin-top: 3vh; */
+    border-bottom: 1px solid white;
+    width: 100%;
+    color: #6b3939;
 }
+
 .Navbar-menu-coliv-deskTop {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     font-size: 18.8;
     font-weight: 500;
-    gap: 1%;
+    /* gap: 1%; */
     font-family: sans-serif;
     width: 62%;
 }
+
 .Navbar-menu-coliv-deskTop>div>h6{
     font-size: 1.175rem;
     font-weight: 500;
@@ -27,13 +32,23 @@
     cursor: pointer;
 }
 
+.Navbar-menu-coliv-deskTop>div {
+    border-left: 1px solid white;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    width: 17%;
+    justify-content: center;
+}
+
 .Logo-coliv{
     height: 85px;
     width: 112px;
 }
 
 .Navbar-apoint-Coliv {
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding: 10px;
     width: 19vw;
     text-align: center;

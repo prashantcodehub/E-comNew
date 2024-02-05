@@ -3,6 +3,8 @@
     flex-direction: column;
     background-color: #F1EEEE;
     font-family: 'Poppins';
+    position: relative;
+    top: 50vh;
 }
 
 .footer-heading-text {
