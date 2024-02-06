@@ -41,8 +41,9 @@
 }
 
 .Coliv-Contact-section-contactForm-fields-container>div>label{
-    font-size: 1.rem;
+    font-size: 1rem;
     font-weight: 500;
+    margin-bottom: 5px;
 }
 
 .Coliv-Contact-section-contactForm-fields-container>div {
